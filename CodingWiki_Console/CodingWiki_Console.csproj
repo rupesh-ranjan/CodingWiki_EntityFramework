@@ -15,7 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CodingWiki_DataAccess\CodingWiki_DataAccess.csproj" />
     <ProjectReference Include="..\CodingWiki_Model\CodingWiki_Model.csproj" />
   </ItemGroup>
 
