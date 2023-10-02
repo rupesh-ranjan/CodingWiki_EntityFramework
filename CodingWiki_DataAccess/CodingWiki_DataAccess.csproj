@@ -16,7 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CodingWiki_Console\CodingWiki_Console.csproj" />
     <ProjectReference Include="..\CodingWiki_Model\CodingWiki_Model.csproj" />
   </ItemGroup>
 
